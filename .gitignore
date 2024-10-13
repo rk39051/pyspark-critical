@@ -1,0 +1,3 @@
+src/jupyter_notebooks/.ipynb_checkpoints/*
+.idea/*
+pyspark-critical.iml
